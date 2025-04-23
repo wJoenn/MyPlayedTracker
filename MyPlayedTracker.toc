@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: My Played Tracker
+## Notes: Tracks your total played time on logout
+## Version: 1.0
+## SavedVariables: MyPlayedTrackerDB
+
+MyPlayedTracker.lua
